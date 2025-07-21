@@ -1,3 +1,12 @@
+title: Analyse de Fraude Bancaire
+emoji: 🕵️‍♀️
+colorFrom: blue
+colorTo: red
+sdk: streamlit
+sdk_version: 1.35.0
+app_file: app.py
+pinned: false
+
 #  Analyse Exploratoire de Données : Détection de Fraude Bancaire
 
 Ce projet consiste en une Analyse Exploratoire de Données (EDA) sur un jeu de données de transactions par carte de crédit. L'objectif est d'identifier des schémas et des caractéristiques propres aux transactions frauduleuses. Les résultats de cette analyse sont présentés via un tableau de bord interactif développé avec Streamlit.
