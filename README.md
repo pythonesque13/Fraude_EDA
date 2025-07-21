@@ -1,3 +1,4 @@
+---
 title: Analyse de Fraude Bancaire
 emoji: 🕵️‍♀️
 colorFrom: blue
@@ -6,6 +7,7 @@ sdk: streamlit
 sdk_version: 1.35.0
 app_file: app.py
 pinned: false
+---
 
 #  Analyse Exploratoire de Données : Détection de Fraude Bancaire
 
