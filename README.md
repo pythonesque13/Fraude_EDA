@@ -13,7 +13,7 @@ pinned: false
 
 Ce projet consiste en une Analyse Exploratoire de Données (EDA) sur un jeu de données de transactions par carte de crédit. L'objectif est d'identifier des schémas et des caractéristiques propres aux transactions frauduleuses. Les résultats de cette analyse sont présentés via un tableau de bord interactif développé avec Streamlit.
 
-**Lien vers l'application déployée :** [À venir après le déploiement]
+**Lien vers l'application déployée :** [EDA_Fraude](https://huggingface.co/spaces/Martin-T/Fraude_EDA).
 
 ---
 
