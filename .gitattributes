@@ -1,1 +1,14 @@
 data/*.csv filter=lfs diff=lfs merge=lfs -text
+
+# Gérer les fins de ligne de manière cohérente pour tous les utilisateurs
+* text=auto eol=lf
+
+# Spécifier explicitement le type pour certains fichiers
+*.py text eol=lf
+*.md text eol=lf
+*.txt text eol=lf
+*.json text eol=lf
+*.yml text eol=lf
+*.yaml text eol=lf
+*.gitignore text eol=lf
+*.gitattributes text eol=lf
